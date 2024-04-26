@@ -1,5 +1,5 @@
 {
-    "name": "ＶＡＪＩＲＡ - ＭＤ - Ｖ4 WhatsApp Bot",
+    "name": "𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ - Ｖ4 WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/vajirabot1/VAJIRA-MD",
     "logo": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg",
@@ -58,7 +58,7 @@
         "IMAGE": {
             "description": "Put bot image url here",
             "required": true,
-             "value": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"
+             "value": "https://telegra.ph/%F0%9D%90%B0%CE%B9%F0%9D%93%A9%EF%BD%81%F0%9D%94%AF-%CA%99%E1%B4%8F%E1%B4%9Bpng-04-26"
         },
         "ANTI_BOT": {
             "description": "put true or false here",
