@@ -26,7 +26,7 @@
 
 ## CONTACT OWNER
 
-[![𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ]([(https://telegra.ph/%F0%9D%90%B0%CE%B9%F0%9D%93%A9%EF%BD%81%F0%9D%94%AF-%CA%99%E1%B4%8F%E1%B4%9Bpng-04-26)](https://wa.me/17787702909)
+[![𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ](https://telegra.ph/%F0%9D%90%B0%CE%B9%F0%9D%93%A9%EF%BD%81%F0%9D%94%AF-%CA%99%E1%B4%8F%E1%B4%9Bpng-04-26)](https://wa.me/17787702909)
 
 ## JOIN SUPPORT GROUP
 
