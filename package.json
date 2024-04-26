@@ -1,9 +1,9 @@
 {
-"name": "VAJIRA-MD",    
+"name": "𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ",    
 "version": "1.0.0",
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD",
-"stop": "pm2 stop VAJIRA-MD",
+"start": "pm2 start index.js --deep-monitoring --attach --name 𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ",
+"stop": "pm2 stop 𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ",
 "restart": "git pull && npm stop && npm start",
 "stash": "git stash && git stash drop"
 },
