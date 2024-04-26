@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/VajiraTech">
-    <img src="https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"  width="700px">
+    <img src="[https://telegra.ph/%F0%9D%90%B0%CE%B9%F0%9D%93%A9%EF%BD%81%F0%9D%94%AF-%CA%99%E1%B4%8F%E1%B4%9Bpng-04-26]"  width="700px">
 </a>
 <hr>
 
@@ -26,15 +26,15 @@
 
 ## CONTACT OWNER
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94719199757)
+[![𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ]([(https://telegra.ph/%F0%9D%90%B0%CE%B9%F0%9D%93%A9%EF%BD%81%F0%9D%94%AF-%CA%99%E1%B4%8F%E1%B4%9Bpng-04-26)](https://wa.me/17787702909)
 
 ## JOIN SUPPORT GROUP
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+[![𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ](https://telegra.ph/%F0%9D%90%B0%CE%B9%F0%9D%93%A9%EF%BD%81%F0%9D%94%AF-%CA%99%E1%B4%8F%E1%B4%9Bpng-04-26))](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
 
 ## MY YT CHANNEL
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) 
+[![Youtube]((https://telegra.ph/%F0%9D%90%B0%CE%B9%F0%9D%93%A9%EF%BD%81%F0%9D%94%AF-%CA%99%E1%B4%8F%E1%B4%9Bpng-04-26))](https://youtube.com/@gamingewingyt6216) 
 
 </details>
 
@@ -76,7 +76,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 <hr>
 
-## HOW TO DEPLOY 👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ4 👨‍💻
+## HOW TO DEPLOY 👨‍💻 𝐰ι𝓩ａ𝔯Ⓓ-ʙᴏᴛ 👨‍💻
 
 </div>
 
